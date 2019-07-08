@@ -1,18 +1,22 @@
 # squad-member-directory
 
-## List your name, your specialty, and your GitHub profile name
+### List your name, your specialty, and your GitHub profile name. Use the style in code block below and make sure to have an empty line above and below your entry.
 
-**Leads**
 
-Nikema Prophet
+```
+Your Name<br />
+Your Specialty - [@github](https://github.com/github)
+```
 
-Web Development/[@prophen](https://github.com/prophen)
+### **Leads**
 
-**Designers**
+Nikema Prophet <br />
+Web Development - [@prophen](https://github.com/prophen)
 
-**Developers**
+### **Designers**
 
-Nikema Prophet
+### **Developers**
 
-Web Development/[@prophen](https://github.com/prophen)
+Nikema Prophet<br />
+Web Development - [@prophen](https://github.com/prophen)
 
