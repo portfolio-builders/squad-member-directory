@@ -13,6 +13,11 @@ Your Specialty - [@github](https://github.com/github)
 Nikema Prophet <br />
 Web Development - [@prophen](https://github.com/prophen)
 
+### **Data Scientists**
+
+K. Leo Pullin <br />
+Data Science - [@KleoP](https://github.com/KleoP)
+
 ### **Designers**
 
 ### **Developers**
